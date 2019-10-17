@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "attendence-243505",
+  "private_key_id": "1e7ddd7a491324c8eed083bc43e2907a2e9cb463",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3g6DNF4zJmL+M\nNGArbGzitC9/p2bnQkcBD0533qNXWCOWO5ICIuf7M4Wdh2ONhQjPG7Pwzpg85UOd\nnL97XDKuEc75z6XyyofIeEYHwvy98C/oaIzB/wV3gw18ziIfH10D9ST4YXrSu+k4\nuPQ5xLjAVzcJ9Q0unhUdCiUxNOxVted7hHVpvvscgPQepQagbDvKU4tLplAicnTf\nMYyB0G7cuTAWMdaZFJ2mh6KVbXqwU5B3E94tvr7h+Dpm7AZkSHjtS8Kx/A0uWx77\nOOMe58QrbIejoRc5QoTDfNzsCDEd1VIJbyJzhbkrMyH1A10+jRBtA5et+/XE4V4i\ntJ95a8B5AgMBAAECggEAS7tU0T5uOcXBCpWUuGbS2o2canRFeZs23R+ZdMtaohF8\nAiQMQbhw/pAJDHTSZxUnCP04OWCwn7THPhRxSvHF8mLkBOCl7beZ6GeGEu7rSWEF\nDEaVC/v3oBXjq4UPvMM/KgJxItVrj+q/OMrO8sYVrj5vtrq7mWjgcq78oT1jaIzo\n6VA4/M1+uaw4/OkBmYKih76KUPxuannSuRkM5MUF8orVZ9s8Fh8fslKI/HlY8WGA\nZdRW3I9x16xJQ4vZJ8+raI28ixQ9cWzljBvSF5+IpIzkvIJsAtIezeTyhKTYXqzs\nbGKaBGkUB32f95S3XR6RiqaQ/QGe8NtTTowRkR5fhwKBgQDsj0ahKg376SsY4oS5\n+7/tkLUNm1r1p13x+cAe3wGP9XcGzIA3muf3CWNz14rm1qJfWvtz4+10jHgtU7yx\n5R813yTXIkEzjbCL9MhycOasXMa2DJFyee2rWZZbvgakDBvbpglalUfZo10sgm9X\nOiEa7F51ajXRKavQKBVcq6KZwwKBgQDGmGKXImVPa1fp4uFmndPH+zi+01CA7QiL\nhSXMe3ckYmvX3kmBaOMGYcCd0dScp+dsBSOjtkGpTO/6EdqaKVkso4fq0fUf2wSh\nL39I8aYDXZiH99XPGAgcbLzY/sxLCZmqs4q/0U0pGwOLkG98sWLQUxdWwVGrjnrz\nGIGHVR/dEwKBgDTehKOKWZu+bfJe1dkXKbr3h29mFDsoz7c/4S9FGf1Jl/N+Cv3i\ncgtlHsQKHTIgMCPtmps5Cp3sswM2XsrHcWVB3OLz9eyGszlkWNQy5WsKRSL0xiD2\nnSaZnCAe5S8Owb8iaZ7EFE3Q1AcZk7bD+BgjUa0eMq7viEW6X6PZfDqvAoGAaohM\nOu7EkfnvSxPd/gIkHV7ybctFoCOHNfDS+gIxQ19YopAntjfhsQa3IPHyr6aSSivn\nlmaqinsvMGJrdc9AeuWuf5TpfZErxpuIGEUo3R1UOXwFQfaOQ1FBbNYiGQ6pVBzE\nDWnljmtjV3a/l5BAhahNGMjTWsgvxEAdG8/aK+kCgYAWBHvC1yvpmUzgKC1rwNgz\nV3S2tAJ4D/wBGlhEkSrQS7jD6ngq1QpnrY+xewCfhye/Lsj6uTLmF8oNuupvSkHo\nQouMuGrZimzKJok1ShkIIgEY/SJ7dQ6sbKjuv5JYz9qcm1/2o4ZO+Q2HHflJoAg+\nZRaeqEm/IElI/HJmIKCWUg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "attendencedappi@attendence-243505.iam.gserviceaccount.com",
+  "client_id": "113688810528921799432",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attendencedappi%40attendence-243505.iam.gserviceaccount.com"
+}
